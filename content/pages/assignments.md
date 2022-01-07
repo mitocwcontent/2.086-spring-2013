@@ -1,0 +1,18 @@
+---
+content_type: page
+title: Assignments
+uid: ad2666c1-b7aa-741d-9a13-6cbbc1fc4ec3
+---
+
+This page presents the assignments, along with supporting MATLAB® templates, datafiles and "Grade-o-Matic" files. Grade-o-Matic software files are codes that allow you to determine if your code is working, and your grade for each question. More information about Grade-o-Matic files can be found in [Assignment 1 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_assignment1).
+
+\[_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html)® directly.\]
+
+| UNITS | ASSIGNMENTS | SUPPORTING FILES | GRADE-O-MATIC FILES |
+| --- | --- | --- | --- |
+| Unit I: (Numerical) Calculus | [Assignment 1 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_assignment1) |  {{< br >}}{{< br >}} [Templates (ZIP)]({{< baseurl >}}/resources/templates_assignment_1) (This file contains 12 .M files.) {{< br >}}{{< br >}} [Challenge 2 Files (ZIP)]({{< baseurl >}}/resources/assignment_1_challenge_2) (This file contains 1 .TXT file and 1 .MAT file.) {{< br >}}{{< br >}}  | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/grade_o_matic_assignment_1) (This file contains 12 .P files.) |
+| Unit II: Statistical Estimation; Monte Carlo Methods | [Assignment 2 (PDF)]({{< baseurl >}}/resources/mit2_086s13_assignment2) |  {{< br >}}{{< br >}} [Templates (ZIP)]({{< baseurl >}}/resources/assignment_2_templates) (This file contains 10 .M files.) {{< br >}}{{< br >}} [Data files (ZIP)]({{< baseurl >}}/resources/a2_data_files) (This file contains 4 .P files and 1 .MAT file.) {{< br >}}{{< br >}}  | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/gradeomatic_a2) (This file contains 10 .P files.) |
+| Unit III: Linear Algebra 1: Matrices and Least Squares; Regression | [Assignment 3 (PDF)]({{< baseurl >}}/resources/mit2_086s13_assignment3) |  {{< br >}}{{< br >}} [Templates (ZIP)]({{< baseurl >}}/resources/assignment_3_templates) (This file contains 6 .M files.) {{< br >}}{{< br >}} [Friction data file (MAT)]({{< baseurl >}}/resources/friction_data) {{< br >}}{{< br >}}  | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/assignment_3_gradeomatic) (This file contains 7 .P files.) |
+| Unit IV: Ordinary Differential Equations | [Assignment 4 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086s13_assignment4) | [Templates (ZIP)]({{< baseurl >}}/resources/assignment_4_templates) (This file contains 8 .M files.) | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/assignment_4_gradeomatic) (This file contains 9 .P files.) |
+| Unit V: Linear Algebra 2: Linear Systems | [Assignment 5 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_086s13_assignment5) |  {{< br >}}{{< br >}} [Templates (ZIP)]({{< baseurl >}}/resources/assignment_5_templates) (This file contains 5 .M files.) {{< br >}}{{< br >}} [Question 1 Script (P)]({{< baseurl >}}/resources/a5q1) {{< br >}}{{< br >}}  | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/assignment_5_gradeomatic) (This file contains 7 .P files.) |
+| Unit VI: Nonlinear Problems | [Assignment 6 (PDF)]({{< baseurl >}}/resources/mit2_086s13_assignment6) | [Scripts and Templates (ZIP)]({{< baseurl >}}/resources/assignment_6_templates) (This file contains 4 .P and 4 .M files.) | [Grade-o-Matic (ZIP)]({{< baseurl >}}/resources/assignment_6_gradeomatic) (This file contains 9 .P files.)
